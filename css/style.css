@@ -1,0 +1,73 @@
+/*reset*/
+*{
+    font-family: "Poppins", sans-serif;
+}
+/*header*/
+.contLogo{
+    width: 8rem;
+}
+.contLogo img{
+    width: 100%;
+}
+.imgLogin {
+    width: 3rem;
+}
+.menuList li{
+    list-style-type: none;
+}
+.menuList li a{
+    text-decoration: none;
+    color:rgb(92, 57, 32);
+    font-weight: 700;
+}
+/*main*/
+.form img{
+    width: 6rem;
+}
+.form li{
+    list-style-type: none;
+}
+.form li a{
+    text-decoration: none;
+    color:rgb(68, 129, 44);
+    font-weight: 400;
+}
+.artNoticia p{
+    font-size: 14px;
+}
+.imgNews{
+    width: 6rem;
+}
+.imgNews img{
+    width: 100%;
+}
+.imgLoginPrincipal{
+    width: 6rem;
+}
+.imgLoginPrincipal img{
+    width: 100%;
+}
+.irGremio li{
+    list-style-type: none;
+}
+.irGremio li a{
+    text-decoration: none;
+    color:rgb(49, 124, 68);
+    font-weight: 600;
+}
+.irNoticia li{
+    list-style-type: none;
+}
+.irNoticia li a{
+    text-decoration: none;
+    color:rgb(192, 116, 61);
+    font-weight: 400;
+}
+/*footer*/
+.menuFooter li{
+    list-style-type: none;
+}
+
+.menuFooter img{
+    width: 2rem;
+}
