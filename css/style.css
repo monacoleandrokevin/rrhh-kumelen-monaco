@@ -21,6 +21,13 @@
     font-weight: 700;
 }
 /*main*/
+body{
+    margin-top: 8rem;
+    height: 100%;
+}
+.card{
+    border-width: 0;
+}
 .form img{
     width: 6rem;
 }
@@ -62,6 +69,17 @@
     text-decoration: none;
     color:rgb(192, 116, 61);
     font-weight: 400;
+}
+
+.list-group-item-secondary{
+    font-weight: bold;
+    margin-top: 2rem;
+}
+.list-group-item-info{
+    margin-top: 1rem;
+}
+.login{
+    font-weight: bold;
 }
 /*footer*/
 .menuFooter li{
